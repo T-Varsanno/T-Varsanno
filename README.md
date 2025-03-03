@@ -27,5 +27,5 @@ Passionate about continuous learning, solving tricky problems, and diving into n
   
 📫 How to reach me: 
 
-[<img src='https://github.com/NaorGuetta/NaorGuetta/blob/main/icons/linkedin.png' alt='linkedin' height='40'>](www.linkedin.com/in/tomer-varsanno)
+[<img src='https://github.com/NaorGuetta/NaorGuetta/blob/main/icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomer-varsanno/)
 [<img src='https://github.com/NaorGuetta/NaorGuetta/blob/main/icons/gmail.png' alt='Gmail' width='40'>](mailto:tomer.varsanno1@gmail.com)
